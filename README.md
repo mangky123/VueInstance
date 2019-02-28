@@ -24,3 +24,10 @@ npm run test
 ```
 npm run lint
 ```
+
+### Ref.
+```
+Vue CLI : vue ui (command line)
+Patipan Saeling
+Noppadon Jannok
+```
